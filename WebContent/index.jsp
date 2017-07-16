@@ -8,7 +8,7 @@
 </head>
 <body>
 	<form action="/WebHello/HelloServlet" method="post">
-		<label>ログインユーザ2</label>
+		<label>ログインユーザ</label>
 		<input type="text" name="txtBox1">
 		<br />
 		<label>パスワード</label>
